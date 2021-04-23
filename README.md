@@ -1,6 +1,6 @@
 - 👋 Hi, I'm Herbert De Sousa Sampaio
 - 👀 I’m interested in developing projects using typescript
-- 🌱 I’m currently learning ReactJS and NodeJS
+- 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to collaborate on typescript projects
 - 📫 Contact [LinkedIn](https://www.linkedin.com/in/herbert-sampaio-5ba26816a/)
 
