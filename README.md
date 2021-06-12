@@ -1,4 +1,4 @@
-- 👋 Hi, I'm Herbert De Sousa Sampaio
+- 👋 Hi, I'm Herbert De Sousa
 - 👀 I’m interested in developing projects using ReactJS
 - 🌱 I’m currently learning Node.js
 - 💞️ I’m looking to collaborate on typescript projects
