@@ -1,4 +1,4 @@
-## Olá! Eu sou o Herbert de Sousa.
+## Olá! Eu sou o Herbert de Sousa, desenvolvedor front-end e estudante fullstack.
  <div>
   <a href="https://github.com/HerbertSousa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=HerbertSousa&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
